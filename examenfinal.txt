@@ -1,0 +1,11 @@
+5/6 preguntas
+Tenemos que elegir 4.
+Tema 1: importante, es la base, aunque no tenemos ejercicios muy importantes de examen.
+Tema 2: Saber definir autómatas finitos, expresiones regulares(saber definirlas, a partir de un lenguaje por ejemplo), los ejercicios no van a ser muy distintos de los vistos en clase. 
+Tema 3: Bombeo. Demostrar si un lenguaje es regular o no. Autómata minimal.
+Tema 4: Greibach no. Forma normal de Chomsky sí. Básicamente el tema 4 importante menos lo de Greibach.
+Tema 5: Autómatas con pila importantes. Mirar tema 5. No va a ser tan complejo como el último de los autómatas con pila que tiene 5 estados. Importante la diferencia entre gramáticas y autómatas con pila(es decir, dado un autómata con pila, llegar a una gramática).
+Demostrar si un lenguaje independiente de contexto no cae.
+Tema 6: Lo vimos muy por encima, se complica y no va a caer un ejercicio de este estilo.
+Lo que si puede aparecer es el último algoritmo de diagonales del tema 6.
+Tema 7: No cae nada en principio, nada!.
